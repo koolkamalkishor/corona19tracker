@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1597304482547,
+  "timestamp": 1597319535463,
   "index": "https://koolkamalkishor.github.io/corona19tracker/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "https://koolkamalkishor.github.io/corona19tracker/favicon.ico",
         "https://koolkamalkishor.github.io/corona19tracker/index.html",
-        "https://koolkamalkishor.github.io/corona19tracker/main-es2015.38303c8cccdc2e445419.js",
-        "https://koolkamalkishor.github.io/corona19tracker/main-es5.38303c8cccdc2e445419.js",
+        "https://koolkamalkishor.github.io/corona19tracker/main-es2015.45fb31b9f4dd002f38c8.js",
+        "https://koolkamalkishor.github.io/corona19tracker/main-es5.45fb31b9f4dd002f38c8.js",
         "https://koolkamalkishor.github.io/corona19tracker/manifest.webmanifest",
         "https://koolkamalkishor.github.io/corona19tracker/polyfills-es2015.d630f8d8d2f25c0ddc79.js",
         "https://koolkamalkishor.github.io/corona19tracker/polyfills-es5.d33101a7d00db04ac139.js",
@@ -61,9 +61,9 @@
     "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-96x96.png": "2f2501c23f6dd49ef4d94fdb266c724fb6f9fcc1",
     "https://koolkamalkishor.github.io/corona19tracker/assets/preview.png": "ea09d85fca539e01c69165e81c6af35b139034ed",
     "https://koolkamalkishor.github.io/corona19tracker/favicon.ico": "b22a779ed530b27ea6d2e085c28076067c63b95a",
-    "https://koolkamalkishor.github.io/corona19tracker/index.html": "881803ab28b6572260ac2ce8fb211993ec1aa304",
-    "https://koolkamalkishor.github.io/corona19tracker/main-es2015.38303c8cccdc2e445419.js": "263e5230bd7251baad03da9ffbe166d9229910bc",
-    "https://koolkamalkishor.github.io/corona19tracker/main-es5.38303c8cccdc2e445419.js": "e1b3c0ddb909bb611cca7b1d88825b23d785eedb",
+    "https://koolkamalkishor.github.io/corona19tracker/index.html": "2241d310019da421bbd1de4c46204a5c41f5a7cd",
+    "https://koolkamalkishor.github.io/corona19tracker/main-es2015.45fb31b9f4dd002f38c8.js": "5dcd799004eefe1539c3bd9052ce4ad9a0a081f5",
+    "https://koolkamalkishor.github.io/corona19tracker/main-es5.45fb31b9f4dd002f38c8.js": "8d490ef1fd1da9d8e23fbcd1c701f8184c9b4f44",
     "https://koolkamalkishor.github.io/corona19tracker/manifest.webmanifest": "97612fe5da5a9d2c39f53e6deba92a8d7c8eddb6",
     "https://koolkamalkishor.github.io/corona19tracker/polyfills-es2015.d630f8d8d2f25c0ddc79.js": "90fb474e1a7d87bd57bc8a95fb3fd361b919d815",
     "https://koolkamalkishor.github.io/corona19tracker/polyfills-es5.d33101a7d00db04ac139.js": "694bec1ff7b951f42234bb9055ea01d016f0a7ac",
