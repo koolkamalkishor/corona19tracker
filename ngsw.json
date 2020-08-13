@@ -1,0 +1,92 @@
+{
+  "configVersion": 1,
+  "timestamp": 1597304482547,
+  "index": "https://koolkamalkishor.github.io/corona19tracker/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://koolkamalkishor.github.io/corona19tracker/favicon.ico",
+        "https://koolkamalkishor.github.io/corona19tracker/index.html",
+        "https://koolkamalkishor.github.io/corona19tracker/main-es2015.38303c8cccdc2e445419.js",
+        "https://koolkamalkishor.github.io/corona19tracker/main-es5.38303c8cccdc2e445419.js",
+        "https://koolkamalkishor.github.io/corona19tracker/manifest.webmanifest",
+        "https://koolkamalkishor.github.io/corona19tracker/polyfills-es2015.d630f8d8d2f25c0ddc79.js",
+        "https://koolkamalkishor.github.io/corona19tracker/polyfills-es5.d33101a7d00db04ac139.js",
+        "https://koolkamalkishor.github.io/corona19tracker/runtime-es2015.0811dcefd377500b5b1a.js",
+        "https://koolkamalkishor.github.io/corona19tracker/runtime-es5.0811dcefd377500b5b1a.js",
+        "https://koolkamalkishor.github.io/corona19tracker/styles.11efff3fb1a62bae1b83.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://koolkamalkishor.github.io/corona19tracker/assets/fonts/archia-bold-webfont.ad8463d1.woff2",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/fonts/archia-medium-webfont.80da55a5.woff2",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/fonts/archia-semibold-webfont.890ee929.woff2",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/heading5.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/icons/apple-touch-icon.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-128x128.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-144x144.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-152x152.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-192x192.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-384x384.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-512x512.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-72x72.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-96x96.png",
+        "https://koolkamalkishor.github.io/corona19tracker/assets/preview.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://koolkamalkishor.github.io/corona19tracker/assets/fonts/archia-bold-webfont.ad8463d1.woff2": "1c52fd481c6ef835eaa51542396fff490c926fc7",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/fonts/archia-medium-webfont.80da55a5.woff2": "d0668e9056b69c017a081a6eb6e28310e9af281a",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/fonts/archia-semibold-webfont.890ee929.woff2": "695dd76d87e66bdc49e780840dfa13fabf8222dc",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/heading5.png": "b59bb73db0b40e9c699adea38819ca8990b0ab81",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/icons/apple-touch-icon.png": "cd8080997cd10b406912a1803172566fa01f8327",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-128x128.png": "6a3bc834f40fd9e1d238c4fb88fdbb99579ab6be",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-144x144.png": "8856a446b6ff05abed5b60e902cc26659c7c9e8e",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-152x152.png": "0fadda08730f90a0568082a16bfaa56ad0a32fe3",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-192x192.png": "7beb0974ad6b024b5d46852d5a3a3f9434f0bd84",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-384x384.png": "f2e6d51587183aa1a9cd9aebd6626b9c3229f097",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-512x512.png": "a2f3e6ba29a654b75c803ccf07dd717d0358e9c7",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-72x72.png": "4a073bfecc1d2f689f7960561093eb2646a2aa7c",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/icons/icon-96x96.png": "2f2501c23f6dd49ef4d94fdb266c724fb6f9fcc1",
+    "https://koolkamalkishor.github.io/corona19tracker/assets/preview.png": "ea09d85fca539e01c69165e81c6af35b139034ed",
+    "https://koolkamalkishor.github.io/corona19tracker/favicon.ico": "b22a779ed530b27ea6d2e085c28076067c63b95a",
+    "https://koolkamalkishor.github.io/corona19tracker/index.html": "881803ab28b6572260ac2ce8fb211993ec1aa304",
+    "https://koolkamalkishor.github.io/corona19tracker/main-es2015.38303c8cccdc2e445419.js": "263e5230bd7251baad03da9ffbe166d9229910bc",
+    "https://koolkamalkishor.github.io/corona19tracker/main-es5.38303c8cccdc2e445419.js": "e1b3c0ddb909bb611cca7b1d88825b23d785eedb",
+    "https://koolkamalkishor.github.io/corona19tracker/manifest.webmanifest": "97612fe5da5a9d2c39f53e6deba92a8d7c8eddb6",
+    "https://koolkamalkishor.github.io/corona19tracker/polyfills-es2015.d630f8d8d2f25c0ddc79.js": "90fb474e1a7d87bd57bc8a95fb3fd361b919d815",
+    "https://koolkamalkishor.github.io/corona19tracker/polyfills-es5.d33101a7d00db04ac139.js": "694bec1ff7b951f42234bb9055ea01d016f0a7ac",
+    "https://koolkamalkishor.github.io/corona19tracker/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://koolkamalkishor.github.io/corona19tracker/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://koolkamalkishor.github.io/corona19tracker/styles.11efff3fb1a62bae1b83.css": "26293896d14b2998a411486238b5ccf31e9c9f6a"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
